@@ -10,34 +10,7 @@
   <title>ibook Movie Page</title>
 </head>
 <body>
-  <nav class="navbar navbar-expand-lg navbar-light bg-light">
-   <img class="background-image" src="img/logo.png" alt="theater_logo">
-    <a class="navbar-brand" href="index.html">Simpson Movie Theater</a>
-    <div class="collapse navbar-collapse" id="navbarSupportedContent">
-      <ul class="navbar-nav mr-auto">
-        <li class="nav-item">
-          <a class="nav-link" href="index.html">Home</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="about.html">About</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="purchase_page.html">Buy Tickets</a>
-        </li>
-        <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup=
-          "true" aria-expanded="false">Movies</a>
-          <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-            <a class="dropdown-item" href="space_ghosts.html">Space Ghosts</a> <a class="dropdown-item" href=
-            "comedy_movie.html">Comedy Movie</a> <a class="dropdown-item" href="chef_dog.html">Chef Dog</a> <a class=
-            "dropdown-item" href="action_movie.html">Action Movie</a> <a class="dropdown-item" href="love_birds.html">Love
-            Birds</a>
-            <div class="dropdown-divider"></div><a class="dropdown-item" href="#">I-Book</a>
-          </div>
-        </li>
-      </ul>
-    </div>
-  </nav>
+  <?php include '../resources/navbar.php'; ?>
   <div class="container">
     <div class="row">
       <div class="col">
@@ -102,9 +75,7 @@
       </tr>
     </tfoot>
   </table>
-  <footer>
-    &copy; Simpson College 2018 | Contact Us (515) 247-8992
-  </footer>
+  <?php include '../resources/footer.php'; ?>
 </div>
   <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity=
   "sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script> 
