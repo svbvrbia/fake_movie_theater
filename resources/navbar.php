@@ -9,15 +9,15 @@
 
         <ul class="navbar-nav mr-auto">
           <li class="nav-item">
-            <a class="nav-link" href="index.html">Home</a>
+            <a class="nav-link" href="index.php">Home</a>
           </li>
 
           <li class="nav-item active">
-            <a class="nav-link" href="#">About<span class="sr-only">(current)</span></a>
+            <a class="nav-link" href="about.php">About</a>
           </li>
 
           <li class="nav-item">
-            <a class="nav-link" href="purchase_page.html">Buy Tickets</a>
+            <a class="nav-link" href="purchase_page.php">Buy Tickets</a>
           </li>
 
           <li class="nav-item dropdown">
