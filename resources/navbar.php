@@ -25,13 +25,13 @@
               Movies
             </a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-              <a class="dropdown-item" href="space_ghosts.html">Space Ghosts</a>
-              <a class="dropdown-item" href="comedy_movie.html">Comedy Movie</a>
-              <a class="dropdown-item" href="chef_dog.html">Chef Dog</a>
-              <a class="dropdown-item" href="action_movie.html">Action Movie</a>
-              <a class="dropdown-item" href="love_birds.html">Love Birds</a>
+              <a class="dropdown-item" href="space_ghosts.php">Space Ghosts</a>
+              <a class="dropdown-item" href="comedy_movie.php">Comedy Movie</a>
+              <a class="dropdown-item" href="chef_dog.php">Chef Dog</a>
+              <a class="dropdown-item" href="action_movie.php">Action Movie</a>
+              <a class="dropdown-item" href="love_birds.php">Love Birds</a>
               <div class="dropdown-divider"></div>
-              <a class="dropdown-item" href="ibook_movie.html">I-Book</a>
+              <a class="dropdown-item" href="ibook_movie.php">I-Book</a>
             </div>
           </li>
         </ul>
