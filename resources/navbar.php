@@ -1,6 +1,6 @@
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
 	 <img class="background-image" src="img/logo.png" alt="theater_logo">
-      <a class="navbar-brand" href="index.html">Simpson Movie Theater</a>
+      <a class="navbar-brand" href="index.php">Simpson Movie Theater</a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
